@@ -21,7 +21,7 @@ repository               : "neil20030304/neil20030304.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilephoto.png"
+  avatar           : "photo.png"
   name             : "Xinyu Chen"
   pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
